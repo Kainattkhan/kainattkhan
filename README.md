@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kainat</h1>
 <h3 align="center">A passionate Python Application developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://uploads.toptal.io/blog/image/92578/toptal-blog-image-1464707278877-5d257339eb6b911f3a32f772da07f6f0.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainattkhan&label=Profile%20views&color=0e75b6&style=flat" alt="kainattkhan" /> </p>
 
