@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)]
+![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
 
 <h1 align="center">Hi 👋, I'm Kainat</h1>
 <h3 align="center">A passionate Python Application developer</h3>
