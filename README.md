@@ -17,7 +17,7 @@
   <br>
 - 📫 Reach me at **kainattkhan029@gmail.com**
 
-- ⚡ Fun fact **Tea is love!**
+- ⚡ Fun fact **Coding is fun, but coding with tea is more fun!!**
 
 <p align="left">
 </p><br>
