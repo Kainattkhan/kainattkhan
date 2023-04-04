@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
 
 <h1 align="center">Hi 👋, I'm Kainat</h1>
-<h3 align="center">A passionate Python Application developer</h3>
+<h3 align="center">A passionate Python Application and front-end developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
@@ -9,10 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 **I’m currently learning**
+- 🌱 **Areas of experties**
 -       Python based desktop app development
--       Python based full stack web development
--       Python based AI and ML development
+-       Front end development (Angular Framework)        
                                                        
   <br>
 - 📫 Reach me at **kainattkhan029@gmail.com**
