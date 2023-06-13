@@ -14,11 +14,12 @@
 </p><br>
 
 <h3 align="left"><b>Languages and Tools:<b></h3>
-  <h5> Python <h5>
-  <h5> C++ <h5>
+  
+  <h5> Angular <h5>
   <h5> Typescript <h5>
   <h5> Html <h5>
   <h5> CSS <h5>
+  <h5> Python <h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kainattkhan&show_icons=true&locale=en&layout=compact" alt="kainattkhan" /></p>
 
