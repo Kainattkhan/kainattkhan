@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kainat</h1>
-<h3 align="center">Frontend Developer and technical writer</h3><br>
+<h3 align="center">A Frontend Developer and technical writer</h3><br>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
