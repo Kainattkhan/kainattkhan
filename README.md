@@ -6,8 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h3 align="left"><b>Areas of Experties:<b></h3>
+<h5>Front end development (Angular Framework) <h5> 
+<h5>Technical Writing<h5>
 <h5>Python based desktop app development<h5>
-<h5>Front end development (Angular Framework) <h5>        
 
 <p align="left">
 </p><br>
