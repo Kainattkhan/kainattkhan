@@ -14,9 +14,9 @@
 
 <h2>Areas of Expertise</h2>
 <ul>
-  <li>Frontend Development (Angular Framework)</li>
+  <li>Frontend Development</li>
+  <li>Creating fully responsive and dynamic web applications</li>
   <li>Technical Writing</li>
-  <li>Python-based Desktop App Development</li>
 </ul>
 
 <h2>Languages and Tools</h2>
