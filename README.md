@@ -2,9 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Kainat - Frontend Developer and Technical Writer</title>
-</head>
 <body>
 
 <h1 align="center">Hi 👋, I'm Kainat</h1>
