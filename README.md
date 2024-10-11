@@ -43,7 +43,7 @@
 </ul>
 
 <h2>GitHub Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true" alt="Kainat's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&cache_seconds=1800" alt="Kainat's GitHub Stats" />
 
 
 <h2>Contact Me</h2>
