@@ -5,28 +5,30 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Kainat</h1>
-<h3 align="center">Frontend Developer | Data Science & AI Trainee | Technical Writer</h3>
+<h3 align="center">AI & Data Science Trainee | Machine Learning Enthusiast | Technical Writer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h2>About Me</h2>
-<p>Frontend Developer and Technical Writer, now diving into the world of Data Science and AI. Passionate about machine learning, analytics, and building intelligent solutions."</p>
+<p>AI and Data Science enthusiast focused on machine learning, neural networks, and generative AI, passionate about creating impactful solutions to real-world challenges."</p>
 
 <h2>Areas of Expertise</h2>
 <ul>
+  <li>Data Science and AI</li>
+  <li>Machine Learning</li>
+  <li>Generative AI</li>
+  <li>Deep Learning</li>
   <li>Frontend Development</li>
   <li>Technical Writing</li>
-  <li>Data Science</li>
-  <li>Machine Learning</li>
 </ul>
 
 <h2>Languages and Tools</h2>
 <ul>
+  <li>Python</li>
+  <li>SQL</li>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Python</li>
-  <li>SQL</li>
 </ul>
 
 <h2>Skills</h2>
@@ -34,6 +36,8 @@
   <li>Data Visualization</li>
   <li>Exploratory Data Analysis (EDA)</li>
   <li>Machine Learning Algorithms</li>
+  <li>Digital Image Processing</li>
+  <li>Building CNN models</li>
   <li>SQL Querying</li>
 </ul>
 
