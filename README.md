@@ -39,10 +39,6 @@
   <a href="https://kainatabrahim.medium.com">Explore my Writings</a>
 </ul>
 
-<h2>GitHub Stats</h2> <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Kainattkhan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-
-
 
 <h2>Contact Me</h2>
 <p>Feel free to reach out to me at <a href="mailto:kainatabrahim@gmail.com">kainatabrahim@gmail.com</a>.</p>
