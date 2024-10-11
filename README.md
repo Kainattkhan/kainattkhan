@@ -22,14 +22,7 @@
   <li>Technical Writing</li>
 </ul>
 
-<h2>Languages and Tools</h2>
-<ul>
-  <li>Python</li>
-  <li>SQL</li>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-</ul>
+<h2>Languages and Tools</h2> <div align="center"> <table> <tr> <td><strong>Languages</strong></td> <td>Python, SQL, JavaScript, HTML, CSS</td> </tr> <tr> <td><strong>Data Analysis Libraries</strong></td> <td>Pandas, NumPy</td> </tr> <tr> <td><strong>ML Frameworks</strong></td> <td>TensorFlow, Keras, Sci-kit Learn</td> </tr> <tr> <td><strong>Data Visualization</strong></td> <td>Tableau</td> </tr> <tr> <td><strong>Database & Tools</strong></td> <td>MySQL Workbench, Git/GitHub</td> </tr> <tr> <td><strong>Digital Image Processing</strong></td> <td>Image Augmentation, Neural Networks (CNN)</td> </tr> </table> </div>
 
 <h2>Skills</h2>
 <ul>
@@ -46,8 +39,9 @@
   <a href="https://kainatabrahim.medium.com">Explore my Writings</a>
 </ul>
 
-<h2>GitHub Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&cache_seconds=1800" alt="Kainat's GitHub Stats" />
+<h2>GitHub Stats</h2> <div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Kainattkhan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+
 
 
 <h2>Contact Me</h2>
