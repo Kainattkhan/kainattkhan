@@ -5,7 +5,7 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Kainat</h1>
-<h3 align="center">AI & ML Engineer| Python Developer | Technical Writer</h3>
+<h3 align="center">AI & ML Engineer | Python Developer | Technical Writer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
@@ -23,7 +23,36 @@
   <li>Technical Writing</li>
 </ul>
 
-<h2>Languages and Tools</h2> <div align="center"> <table> <tr> <td><strong>Languages</strong></td> <td>Python, SQL, JavaScript, HTML, CSS</td> </tr> <tr> <td><strong>Data Analysis Libraries</strong></td> <td>Pandas, NumPy</td> </tr> <tr> <td><strong>ML Frameworks</strong></td> <td>TensorFlow, Keras, Sci-kit Learn</td> </tr> <tr> <td><strong>Data Visualization</strong></td> <td>Tableau</td> </tr> <tr> <td><strong>Database & Tools</strong></td> <td>MySQL Workbench, Git/GitHub</td> </tr> <tr> <td><strong>Digital Image Processing</strong></td> <td>Image Augmentation, Neural Networks (CNN)</td> </tr> </table> </div>
+<h2>Languages and Tools</h2> 
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td><strong>Languages</strong></td> 
+      <td>Python, SQL, JavaScript, HTML, CSS</td> 
+    </tr> 
+    <tr> 
+      <td><strong>Data Analysis & Visualization</strong></td> 
+      <td>Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI</td> 
+    </tr> 
+    <tr> 
+      <td><strong>Machine Learning & Deep Learning</strong></td> 
+      <td>TensorFlow, Keras, Scikit-Learn, PyTorch, Transfer Learning, Model Fine-Tuning</td> 
+    </tr> 
+    <tr> 
+      <td><strong>Algorithms</strong></td> 
+      <td>CNN, RNN, LSTMs, Decision Trees, Random Forest, SVM, KNN</td> 
+    </tr> 
+    <tr> 
+      <td><strong>Computer Vision & Image Processing</strong></td> 
+      <td>OpenCV, Image Augmentation, Object Detection (YOLO, SSD, Faster R-CNN)</td> 
+    </tr> 
+    <tr> 
+      <td><strong>Databases & Version Control</strong></td> 
+      <td>MySQL, Firebase, Google Sheets, Git/GitHub</td> 
+    </tr> 
+  </table> 
+</div>
+
 
 <h2>Skills</h2>
 <ul>
