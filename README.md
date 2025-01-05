@@ -5,7 +5,7 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Kainat</h1>
-<h3 align="center">AI & Data Science Trainee | Machine Learning Enthusiast | Technical Writer</h3>
+<h3 align="center">AI & ML Engineer| Python Developer | Technical Writer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
@@ -18,6 +18,7 @@
   <li>Machine Learning</li>
   <li>Generative AI</li>
   <li>Deep Learning</li>
+  <li>NLP</li>
   <li>Frontend Development</li>
   <li>Technical Writing</li>
 </ul>
@@ -31,6 +32,8 @@
   <li>Machine Learning Algorithms</li>
   <li>Digital Image Processing</li>
   <li>Building CNN models</li>
+  <li>Chatbot development</li>
+  <li>Deep learning</li>
   <li>SQL Querying</li>
 </ul>
 
