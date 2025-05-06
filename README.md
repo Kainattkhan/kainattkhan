@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Kainat</h1>
 <h3 align="center">AI & ML Engineer | Python Developer | Technical Writer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h2>About Me</h2>
 <p>AI and Data Science enthusiast focused on machine learning, neural networks, and generative AI, passionate about creating impactful solutions to real-world challenges."</p>
